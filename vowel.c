@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()lowercase_vowel(c == 'a' || c == e || c == i || c == o || c == u)
+int main()
 {
     char c;
     printf("\n Enetr character");
